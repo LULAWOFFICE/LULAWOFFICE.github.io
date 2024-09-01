@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "&ensp;卢律师的个人网站"
+title                    : "卢律师的个人网站"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "LULAWOFFICE/lulawoffice.github.io"
 author:
   # Biographic information
   avatar           : "头像.jpg"
-  name             : "&emsp;&emsp;&ensp;&ensp;卢律师"
+  name             : "&emsp;&emsp;&ensp;&ensp;&thinsp;卢律师"
   pronouns         : # example: "she/her"  
   bio              : "自由 信任 负责 合作 互利 共荣"
   location         : "Earth"
