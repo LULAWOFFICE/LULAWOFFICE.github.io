@@ -12,7 +12,7 @@ title                    : "卢律师的个人网站"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://lulawoffice.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lulawoffice.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LULAWOFFICE/lulawoffice.github.io"
 
@@ -128,9 +128,9 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
+#twitter:
   username               : &twitter
-facebook:
+#facebook:
   username               :
   app_id                 :
   publisher              :
@@ -290,7 +290,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
