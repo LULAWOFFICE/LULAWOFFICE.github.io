@@ -294,14 +294,14 @@ timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 
 # Plugins
-plugins:
+#plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
-whitelist:
+#whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
