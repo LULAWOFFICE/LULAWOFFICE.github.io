@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "卢律师的个人网站"
 title_separator          : "-"
 name                     : &name "Your Name"
