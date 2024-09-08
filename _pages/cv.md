@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "常见问题"
+permalink: /qa/
 author_profile: true
 redirect_from:
   - /resume
