@@ -11,10 +11,10 @@ redirect_from:
 
 ### <center>微信二维码</center>
 
-<img src="https://lulawoffice.github.io/images/微信.jpg" title="" alt="" data-align="center">
+<img src="https://lulawoffice.github.io/images/微信.jpg#pic_center" title="" alt="" data-align="center">
 
 ### <center>抖音二维码</center>
 
-<img src="https://lulawoffice.github.io/images/抖音.jpg" title="" alt="" data-align="center">
+<img src="https://lulawoffice.github.io/images/抖音.jpg#pic_center" title="" alt="" data-align="center">
 
 ### 如果你遇到了法律问题，请与卢律师取得联系！
