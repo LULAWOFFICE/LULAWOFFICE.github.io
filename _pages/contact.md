@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /contact/
+title: "联系方式"
 author_profile: true
 redirect_from: 
   - /md/
