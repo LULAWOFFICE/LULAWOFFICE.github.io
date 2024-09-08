@@ -1,6 +1,6 @@
 ---
 permalink: /
- title:"卢律师的个人网站是主要介绍卢律师的日常的网站"
+ title:"卢律师的个人网站是主要介绍卢律师的日常的网站”
 author_profile: true
 redirect_from: 
   - /about/
