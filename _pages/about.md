@@ -14,7 +14,7 @@ redirect_from:
 
 ## 自由 信任 责任 合作 互利 共荣
 
-<img src="https://github.com/LULAWOFFICE/lulawoffice.github.io/blob/master/images/宝剑.png" title="" alt="" data-align="center">
+<img src="https://lulawoffice.github.io/images/宝剑.png" title="" alt="" data-align="center">
 
 ## 自由：思想的灯塔，创新的源泉
 
