@@ -15,6 +15,6 @@ redirect_from:
 
 ### <center>抖音二维码</center>
 
-</center><img src="https://lulawoffice.github.io/images/抖音.jpg#pic_center" title="" alt="" data-align="center"></center>
+<center><img src="https://lulawoffice.github.io/images/抖音.jpg#pic_center" title="" alt="" data-align="center"></center>
 
 ### <center>如果你遇到了法律问题，请与卢律师取得联系！</center>
