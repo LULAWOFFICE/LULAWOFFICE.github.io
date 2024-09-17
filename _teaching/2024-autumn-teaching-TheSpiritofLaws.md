@@ -3,9 +3,9 @@ title: "《论法的精神》"
 collection: teaching
 type: "阅读笔记"
 permalink: /teaching/2024-autumn-teaching-TheSpiritofLaws
-venue: "家中"
+venue: "地球"
 date: 2024-09-16
-location: "焦作, 中国"
+location: "地球, 银河系"
 ---
 
 ## <center>《论法的精神》经典语句摘抄</center>
